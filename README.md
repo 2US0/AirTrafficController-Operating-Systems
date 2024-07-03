@@ -1,4 +1,3 @@
-# AirTrafficController-Operating-Systems
 # Air Traffic Control System
 
 This project simulates an Air Traffic Control System using various operating system concepts. The system is composed of multiple entities such as planes (both passenger and cargo), airports, an air traffic controller, passengers, and a cleanup process. Each entity is implemented as a separate POSIX-compliant C program, and the system utilizes inter-process communication (IPC) mechanisms like pipes and message queues to simulate real-world interactions between these entities.
